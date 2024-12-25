@@ -1,0 +1,2 @@
+# Elixir Enum.reduce Edge Case
+This repository demonstrates a potential issue with `Enum.reduce` in Elixir when dealing with empty lists and conditional logic within the reducer function.  The original code throws an error if the input list is empty.  The solution shows how to handle this edge case gracefully. 
